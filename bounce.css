@@ -1,0 +1,460 @@
+*
+{
+    margin: 0;
+    padding: 0;
+} 
+.first{
+    position:relative
+}
+.logo
+{
+position: absolute;
+top: 30px;
+left: 50px;
+}
+.but{
+position: absolute;
+top: 30px;
+left: 1040px;
+background-color: transparent;
+color: white;
+padding: 10px 30px;
+border-radius: 6px;
+font-size: 15px;
+}
+.button
+{
+position: absolute;
+top: 30px;
+right: 50px;
+position: absolute;
+background-color: transparent;
+color: white;
+padding: 10px 30px;
+border-radius: 6px;
+font-size: 15px;
+}
+.ride
+{
+    position: absolute;
+    bottom:20px;
+    left:70px;
+
+}
+.second{
+    background-color:#f2effc ;
+    height: 750px;
+}
+.ver-1
+{
+    border-left: 2px solid #372D5D; ;
+    color: #372D5D;
+  height: 90px;
+margin-top: 10px;
+}
+.circle-1{
+    border: 3px solid #372D5D;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+}
+.ver-2{
+    border-left: 2px solid #372D5D;
+  height: 90px;
+  margin-top: 10px;
+}
+.circle-2{
+    border: 3px solid #372D5D;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+.circle-3{
+    border: 3px solid #372D5D;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+.sec
+{
+    display: flex;
+}
+.one{
+    color: #372D5D;
+    text-align: center;
+    margin-left: 120px;
+    margin-bottom: 20px;
+    font-size: 2.0rem;
+    letter-spacing: 1px;
+}
+.txt{
+    color: #372D5D;
+    text-align: left;
+    margin-left: 240px;
+}
+.vl{
+    color: #372D5D;;
+}
+.second-text{
+    margin-left: 340px;
+    margin-top: 90px;
+}
+.mobile{
+    margin-left: 220px;
+}
+.third-text
+{
+    display: flex;
+    margin-top: 300px;    
+}
+.third-1
+{
+    margin-right: 20px;
+}
+.third-2
+{
+    color:#372D5D;
+}
+.auth{
+    margin-top: 100px;
+}
+.Ride{
+  margin-top: 100px;  
+}
+    .violet-1
+    {
+        background-color: rgb(55, 45, 93);
+        height: 700px;
+    
+    }
+    .violet-1{
+        text-align: center;
+        padding-top: 130px;
+        color: white;
+    }
+    .every
+    {
+        font-size: 4rem;
+        margin-bottom: 10px;
+    }
+    .card
+    {
+        background-color: rgb(255, 255, 255);
+        width: 300px;
+        margin-top:-500px;
+        margin-left: 150px;
+        border-radius: 20px;
+        height: 300px;
+        text-align: center;
+        color: rgb(55,45,93);
+    }
+    .img-1
+    {
+        padding-top: 70px
+    }
+    .txt-1{
+        padding-top: 20px;
+    }
+    .card-2
+    {
+        background-color: rgb(255, 255, 255);
+        width: 300px;
+        margin-left: 600px;
+        margin-top: -305px;
+        border-radius: 20px;
+        height: 300px;
+        text-align: center;
+        color: rgb(55,45,93);   
+    }
+    .img-2
+    {
+       
+        padding-top: 80px
+    }   
+    .txt-2{
+        padding-top: 20px;
+    }
+    .card-3
+    {
+        background-color: rgb(255, 255, 255);
+        width: 300px;
+        margin-top:-300px;
+        margin-left: 1000px;
+        border-radius: 20px;
+        height: 300px;
+        text-align: center;
+        color: rgb(55,45,93);
+    }
+    .img-3
+    {
+        padding-top: 80px
+    }
+    .txt-3{
+        padding-top: 20px;
+    }
+    .red
+    {
+        background-color: #bd1425;
+        margin-top: 200px;
+        height: 700px;
+        display: flex;
+    }
+    .red-txt
+    {
+        color: white;
+       margin-right:200px;
+       margin-top: 150px;
+        
+    }
+    .vio
+    {
+        background-color:rgb(55,45,93);
+        height: 300px;
+    }
+    .horizon
+    {
+        padding-top: 100px;
+        display: flex;
+        height: 2px;
+        margin-left: 220px;
+        
+    }
+    .txt-4
+    {
+        display: flex;
+        margin-left: 300px;
+        padding-top: 20px;
+        
+    }
+    .tx-1{
+padding-left: 200px;
+
+    }
+    .tx-2{
+        padding-left: 190px;
+    }
+    .tx-3{
+        padding-left: 150px;
+    }  
+    .txt-5
+    {
+        background-color: white;
+        height:500px;
+        display: flex;
+    }        
+    .tx-5
+    {
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .redd{
+        color: red;
+        font-size: 15px;
+    }
+    .Lend{
+        font-size: 15px;
+        color: #372D5D;
+    }
+.txs
+{
+    margin-left: 200px;
+    margin-top: 100px;
+    color:rgb(55,45,93);
+}
+.rent
+{
+    color: #2e1d68;
+font-size: 4rem;
+font-weight: 500;
+margin-bottom: 20px;
+}
+.bu
+{
+    background-color: transparent;
+color: white;
+padding: 10px 35px;
+border-radius: 6px;
+font-size: 15px;
+color: red;
+}
+.hiw
+{
+background-color: #f2f1f6;
+height:750px;
+display: flex;
+}
+.scooty
+{
+    width:700px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+    
+}
+.hiw-txt
+{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.how{
+    font-size: 4rem;
+color: white;
+text-shadow: 0px 0px 2px #e3002d, 0px 0px 2px #e3002d, 0px 0px 2px #e3002d, 0px 0px 2px #e3002d;
+margin-bottom: 20px;
+}
+.button-2
+{
+    background-color: transparent;
+    color:#2e1d68;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-size: 15px;
+}
+.ibi
+{
+    background-color: white;
+    height: 750px;
+    display: flex;
+}
+.ibi-1{
+    font-size: 2rem;
+    font-weight: 500;
+    color: #2e1d68;
+}
+.bounce
+{
+max-width: 100vw;
+font-size: 4rem;
+color: #2e1d68;
+}
+.para{
+    color: #2e1d68;
+   
+}
+.know
+{
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-size: 15px; 
+    color: #2e1d68;
+    margin-top: 20px;
+}
+.scooty-1
+{
+    width:600px;
+    height:700px;
+    padding-left: 450px;
+}
+.ibi-txt
+{
+    margin-left: 200px;
+    margin-top: 100px;;
+    text-align:left
+
+}
+.videos
+{
+    background-color: #f2f1f6;
+    height:800px;
+}
+.vid{
+text-align: left;
+padding-left: 20px;
+padding-top: 30px;
+font-size: 4rem;
+font-weight: 500;
+margin-bottom: 50px;
+color: rgb(32, 25, 59)
+}
+.vid-1{
+    padding-left: 80px;
+}
+.vid-2{
+    padding-left: 80px;
+}
+.vid-3{
+    padding-left: 80px;
+}
+.video-txt{
+    display: flex;
+}
+
+.video-txt1
+{
+    margin-left:90px;
+}
+.video-txt2
+{
+    margin-left: 120px;
+}
+.video-txt3
+{
+    margin-left: 120px;
+}
+.imgs-2{
+    display: flex;
+}
+.mob
+{
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.bike{
+    margin-top: 170px;
+}
+.s-last
+{
+background-color: #20193B;
+height:450px;
+display: flex;
+}
+.mobile-txt
+{
+   color: white;
+    margin-left: 650px;
+    margin-top: 100px;
+    font-size: 20px;
+    font-family: var()
+}
+.log
+{
+    display: flex;
+}
+.lst{
+    background-color:#f2f1f6; 
+    height:300px;   
+}
+.ls{
+    display: flex;
+    padding-top: 60px;
+
+}
+.ul-1
+{
+    list-style-type: none;
+}
+.ul-2
+{
+ list-style-type: none;
+}
+.lst-txt1
+{
+    margin-left: 200px;
+}
+.lst-txt2{
+    padding-left: 700px;
+}
+.lst-d
+{
+    display: flex;
+}
+.last
+{
+    margin-left: 200px;
+}
+.last-2
+{
+    padding-left: 560px;
+}
